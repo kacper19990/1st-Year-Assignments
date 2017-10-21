@@ -15,7 +15,7 @@ public class Loan_Payments {
             Scanner year = new Scanner(length);
             if (year.hasNextInt()) {
 
-                int years= year.nextInt();
+                int years = year.nextInt();
                 String annualInterest = JOptionPane.showInputDialog("What's the annual interest?");
                 Scanner interest = new Scanner(annualInterest);
                 if (interest.hasNextDouble()) {

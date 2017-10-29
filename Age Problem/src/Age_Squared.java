@@ -32,7 +32,8 @@ public class Age_Squared
         for (int year = MIN_YEAR; year < MAX_YEAR; ++year)
         {
             int age = 0;
-            while(++age < 124){
+            while(++age < 124)
+            {
                 if((Math.pow(age, 2) == year) && ((CURRENT_YEAR - year) + age  < MAX_LIFETIME) && ((year - age ) < CURRENT_YEAR))
                 {
                     System.out.print(String.format("Year: %d Age: %d", year, age));

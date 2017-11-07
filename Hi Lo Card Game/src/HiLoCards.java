@@ -3,6 +3,11 @@ import java.util.Scanner;
 
 public class HiLoCards
 {
+    public static final int JACK = 11;
+    public static final int QUEEN = 12;
+    public static final int KING = 13;
+    public static final int ACE = 14;
+
     public static void main(String[] args)
     {
         int success = 0;
@@ -11,34 +16,26 @@ public class HiLoCards
         do
         {
 
-            if(card == 11)
+            if(card == JACK)
             {
                 System.out.println("The card is a Jack");
-                //card = newCard;
-                //return;
             }
-            else if(card == 12)
+            else if(card == QUEEN)
             {
                 System.out.println("The card is a Queen");
-                //card = newCard;
-                //return;
             }
-            else if(card == 13)
+            else if(card == KING)
             {
                 System.out.println("The card is a King");
-                //card = newCard;
-                //return;
             }
-            else if(card == 14)
+            else if(card == ACE)
             {
                 System.out.println("The card is an Ace");
-                //card = newCard;
 
             }
             else
             {
                 System.out.println("The card is a " + card);
-                //card = newCard;
             }
             Scanner input = new Scanner(System.in);
             System.out.println("Do you think the next card is higher, lower, or equal?");
@@ -47,6 +44,7 @@ public class HiLoCards
             boolean correctEquals = guess.equals("equal");
             boolean correctHigher = guess.equals("higher");
             boolean correctLower = guess.equals("lower");
+            boolean correctInput = guess.equals("lower") || guess.equals("higher") || guess.equals("equal");
 
             if((correctEquals && (newCard == card)) || (correctHigher && (newCard > card)) || (correctLower && (newCard < card)))
             {
@@ -55,10 +53,14 @@ public class HiLoCards
 
 
             }
-            else
+            else if(correctInput)
             {
                 success = 0;
                 System.out.println("Sorry, that's an incorrect guess. Your score has been reset.");
+            }
+            else
+            {
+                System.out.println("Invalid input. Try again.");
             }
             card = newCard;
 

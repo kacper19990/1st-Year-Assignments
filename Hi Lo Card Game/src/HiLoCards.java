@@ -1,8 +1,9 @@
 import java.util.Random;
-import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 public class HiLoCards
 {
+
     public static final int JACK = 11;
     public static final int QUEEN = 12;
     public static final int KING = 13;
@@ -10,64 +11,67 @@ public class HiLoCards
 
     public static void main(String[] args)
     {
+        Object[] options = {"Higher", "Lower", "Equal", "Quit"};
         int success = 0;
         Random randCard = new Random();
         int card = randCard.nextInt(13) + 2;
+        String faceValue = "";
         do
         {
 
             if(card == JACK)
             {
-                System.out.println("The card is a Jack");
+                faceValue = "Jack";
             }
             else if(card == QUEEN)
             {
-                System.out.println("The card is a Queen");
+                faceValue = "Queen";
             }
             else if(card == KING)
             {
-                System.out.println("The card is a King");
+                faceValue = "King";
             }
             else if(card == ACE)
             {
-                System.out.println("The card is an Ace");
+                faceValue = "Ace";
 
             }
             else
             {
-                System.out.println("The card is a " + card);
+                faceValue = Integer.toString(card);
             }
-            Scanner input = new Scanner(System.in);
-            System.out.println("Do you think the next card is higher, lower, or equal?");
-            String guess = input.next();
-            int newCard = randCard.nextInt(13) +2;
-            boolean correctEquals = guess.equals("equal");
-            boolean correctHigher = guess.equals("higher");
-            boolean correctLower = guess.equals("lower");
-            boolean correctInput = guess.equals("lower") || guess.equals("higher") || guess.equals("equal");
+            int option = JOptionPane.showOptionDialog(null,
+                    "Your score so far is " + success + ". \nThe card is a " + faceValue + "\n Do you think the next card is: ",
+                    "Card Game",
+                    JOptionPane.DEFAULT_OPTION,
+                    JOptionPane.QUESTION_MESSAGE,
+                    null,
+                    options,
+                    options[0]);
 
-            if((correctEquals && (newCard == card)) || (correctHigher && (newCard > card)) || (correctLower && (newCard < card)))
+            int newCard = randCard.nextInt(13) +2;
+
+
+            if((option == 0 && (newCard > card)) || (option == 1 && (newCard < card)) || (option == 2 && (newCard == card)))
             {
                 success++;
-                System.out.println("So far you have " + success + " correct guesses.");
-
 
             }
-            else if(correctInput)
+            else if(option == 3)
             {
-                success = 0;
-                System.out.println("Sorry, that's an incorrect guess. Your score has been reset.");
+                JOptionPane.showMessageDialog(null, "Exiting. \nThanks for playing.");
+                System.exit(0);
             }
+
             else
             {
-                System.out.println("Invalid input. Try again.");
+                success = 0;
+
             }
             card = newCard;
 
-
-
         } while(success < 5);
-        System.out.println("Congratulations! You win the game!");
+        JOptionPane.showMessageDialog(null, "Congratulations! You win the game!");
 
     }
 

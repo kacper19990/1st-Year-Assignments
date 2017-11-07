@@ -29,7 +29,6 @@ public class PoundConverter {
     public static final int OLD_PENNY = 1;
     public static final int OLD_SHILLING = OLD_PENNY*12;
     public static final int OLD_POUND = OLD_SHILLING*20;
-    public static final int TOTAL_POUNDS = (OLD_PENNY*67) / 100;
 
     public static void main(String args[]){
         mainLoop:																					//Starts a new loop

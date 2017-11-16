@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" filepath="$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Age Problem/Age Problem.iml" filepath="$PROJECT_DIR$/Age Problem/Age Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book Problems/Book Problems.iml" filepath="$PROJECT_DIR$/Book Problems/Book Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/College Assignments.iml" filepath="$PROJECT_DIR$/.idea/College Assignments.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" filepath="$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" filepath="$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" />
       <module fileurl="file://$PROJECT_DIR$/PoundConverter/PoundConverter.iml" filepath="$PROJECT_DIR$/PoundConverter/PoundConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" filepath="$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorials/Tutorials.iml" filepath="$PROJECT_DIR$/Tutorials/Tutorials.iml" />
     </modules>
   </component>

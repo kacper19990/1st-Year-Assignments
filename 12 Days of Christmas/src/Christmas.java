@@ -7,18 +7,25 @@
        Comment: Decided to overwrite each line with the new line and the previous line.
    3. Did I use easy-to-understand meaningful variable names formatted properly (in lowerCamelCase)?
        Mark out of 10: 10
+       Comment: The variables are pretty clear. I think that the user would be able to understand what is going on.
    4. Did I indent the code appropriately?
        Mark out of 10: 10
+       Comment: The code was indented correctly.
    5. Did I use an appropriate loop (or loops) to produce the different verses?
        Mark out of 20:  20
+       Comment: The loop goes through days 1 to 12, by using the for loop.
    6. Did I use a switch to build up the verses?
        Mark out of 25:  25
+       Comment: Each case in the switch contains a new line for the song.
    7. Did I avoid duplication of code and of the lines which make up the verses (each line should be referred to in the code only once (or twice))?
        Mark out of 10:  10
+       Comment: Yes, the code gets overwritten with a new line added each time.
    8. Does the program produce the correct output?
        Mark out of 10:  10
+       Comment: The programs prints the song correctly, with a Christmas tree added to the end.
    9. How well did I complete this self-assessment?
        Mark out of 5: 4
+       Comment: Apart from not using STATIC variables, everything else looks good.
    Total Mark out of 100 (Add all the previous marks): 94
 */
 

@@ -1,8 +1,40 @@
+/* SELF ASSESSMENT
+ 1. Did I use appropriate, easy-to-understand, meaningful CONSTANT names formatted correctly in UPPERCASE?
+        Mark out of 5:  5
+        Comment: The constants are easy to read
+ 2. Did I use easy-to-understand meaningful variable names formatted properly (in lowerCamelCase)?
+        Mark out of 5:  5
+        Comment: Variables are correctly formatted and easy to read
+ 3. Did I indent the code appropriately?
+        Mark out of 5: 5
+        Comment: Code is correctly indented
+ 4. Did I define the required function correctly (names, parameters & return type) and invoke them correctly?
+       Mark out of 20:  20
+       Comment: All functions are defined and invoked
+ 5. Did I implement the dayOfTheWeek function correctly and in a manner that can be understood?
+       Mark out of 20:  20
+       Comment: The function works the way it was intended to
+ 6. Did I implement the other functions correctly, giving credit for any code that you take from elsewhere?
+       Mark out of 20:  20
+       Comment: Other functions such are verifying if the date is in correct format etc were introduced
+ 7. Did I obtain (and process) the input from the user in the correct format (dd/mm/yyyy), and deal with any invalid input properly?
+        Mark out of 10: 10
+        Comment: If the input is incorrect the program loops back, and asks the user to try again. It gives an option to exit too.
+ 8. Does the program produce the output in the correct format (e.g. Monday, 25th December 2017)?
+       Mark out of 10:  10
+       Comment: The output is formatted correctly.
+ 9. How well did I complete this self-assessment?
+        Mark out of 5:
+ Total Mark out of 100 (Add all the previous marks): 100
+*/
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
+import java.lang.Math;
 
-public class Converter {
+public class Converter
+{
     public static final String FORMAT = "dd/MM/yyyy";
     public static final int MONTHS = 12;
     public static final int MONTHS_WITH_30_DAYS = 30;

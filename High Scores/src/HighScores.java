@@ -1,78 +1,92 @@
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.Objects;
+import java.util.Random;
 
-public class HighScores
-{
-    public static void initialiseHighScores(int[] highScores)
-    {
-        Arrays.fill(highScores, 0);
-    }
+public class Cipher{
 
-    public static void printHighScores(int[] scores)
-    {
-        int i = 0;
-        System.out.println("The high scores are");
-        do {
-            for(int index = 0; i < scores.length; i++) {
-                scores[index] = scores[index] * -1;
+    public static final int ALPHABET_START = 97;
+
+    public static void main(String[] args){
+        boolean quit = false;
+
+        while(!quit){
+            System.out.print("What would you like to encrypt: ");
+            Scanner input = new Scanner(System.in);
+            String inputString = input.nextLine();
+
+            if(Objects.equals(inputString, "quit")){
+                quit = true;
+                System.out.println("Goodbye.");
             }
+            else {
+                inputString = inputString.toLowerCase();
 
-            System.out.print(scores[i]);
-            i++;
-        }while (i < scores.length);
-    }
+                char[][] cipherArray = createCipher();
+                String encryptedString = encrypt(inputString.toCharArray(), cipherArray);
+                String decryptedString = decrypt(encryptedString.toCharArray(), cipherArray);
 
-    public static boolean higherThan(int[] scores, int newScore)
-    {
-        System.out.println("Error8");
-        return(newScore > scores[scores.length -1]);
+                printCipherArray(cipherArray);
 
-
-    }
-    public static void insertScore(int[] scores, int newScore)
-    {
-        while (scores != null)
-        {
-            int[] tempArray = new int[(scores.length + 1)];
-            System.arraycopy(scores, 0, tempArray, 0, (scores.length));
-            if (higherThan(scores, newScore))
-            {
-                int i = 0;
-                do {
-                    if (scores[i] > newScore)
-                    {
-                        i++;
-                    }
-                    else
-                    {
-                        tempArray[i] = newScore;
-                        scores = tempArray;
-                        break;
-                    }
-                }while (i < scores.length);
+                System.out.println("The encrypted string is: " + encryptedString);
+                System.out.println("The decrypted string is: " + decryptedString);
             }
         }
     }
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("How many high scored do you want to add?");
-        int number = input.nextInt();
-        int[] highScores = new int[number];
-        initialiseHighScores(highScores);
-        boolean finished = false;
-        do {
-            System.out.println("Insert the next score.");
-            int score = input.nextInt();
-            if(higherThan(highScores, score))
-            {
-                insertScore(highScores, score);
-                printHighScores(highScores);
+
+    public static char[][] createCipher(){
+        Random generator = new Random();
+        char[][] randomMapping = new char[27][27];
+        randomMapping[0][26] = ' ';
+        randomMapping[1][26] = ' ';
+
+        int ascii = ALPHABET_START;
+        for(int index = 0; index < randomMapping.length - 1; index++){
+            randomMapping[0][index] = (char)ascii;
+            randomMapping[1][index] = (char)ascii;
+            ascii++;
+        }
+
+        for (int index = 0; index < randomMapping.length; index++){
+            int otherIndex = generator.nextInt(randomMapping.length);
+            char temp = randomMapping[1][index];
+            randomMapping[1][index] = randomMapping[1][otherIndex];
+            randomMapping[1][otherIndex] = temp;
+        }
+        return randomMapping;
+    }
+
+    public static String encrypt(char[] inputString, char[][] cipherArray){
+        char[] encryptedString = new char[inputString.length];
+
+        for(int index = 0; index < encryptedString.length; index++){
+            for(int cipherIndex = 0; cipherIndex < cipherArray[0].length; cipherIndex++){
+                if(inputString[index] == cipherArray[0][cipherIndex]){
+                    encryptedString[index] = cipherArray[1][cipherIndex];
+                }
             }
-            else
-            {
-                System.out.println("Invalid input. Try again? Y/N");
-                if(input.hasNext("N"))
+        }
+        return new String(encryptedString);
+    }
+
+    public static String decrypt(char[] encryptedString, char[][] cipherArray){
+        char[] decryptedString = new char[encryptedString.length];
+
+        for(int index = 0; index < decryptedString.length; index++){
+            for(int cipherIndex = 0; cipherIndex < cipherArray[1].length; cipherIndex++){
+                if(encryptedString[index] == cipherArray[1][cipherIndex]){
+                    decryptedString[index] = cipherArray[0][cipherIndex];
+                }
             }
-        }while(!finished);
+        }
+        return new String(decryptedString);
+    }
+
+    public static void printCipherArray(char[][] cipherArray){
+        for(int index1 = 0; index1 < 2; index1++){
+            for(int index2 = 0; index2 < 27; index2++){
+                System.out.print(cipherArray[index1][index2]);
+            }
+            System.out.println();
+        }
     }
 }

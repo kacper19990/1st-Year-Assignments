@@ -4,16 +4,22 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" filepath="$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Age Problem/Age Problem.iml" filepath="$PROJECT_DIR$/Age Problem/Age Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book Problems/Book Problems.iml" filepath="$PROJECT_DIR$/Book Problems/Book Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cipher/Cipher.iml" filepath="$PROJECT_DIR$/Cipher/Cipher.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/College Assignments.iml" filepath="$PROJECT_DIR$/.idea/College Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date Converter/Date Converter.iml" filepath="$PROJECT_DIR$/Date Converter/Date Converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date Determinant/Date Determinant.iml" filepath="$PROJECT_DIR$/Date Determinant/Date Determinant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" filepath="$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/Etests/Etests.iml" filepath="$PROJECT_DIR$/Etests/Etests.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hacker Rank/Hacker Rank.iml" filepath="$PROJECT_DIR$/Hacker Rank/Hacker Rank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" filepath="$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/High Scores/High Scores.iml" filepath="$PROJECT_DIR$/High Scores/High Scores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" filepath="$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Noughts and Crosses/Noughts and Crosses.iml" filepath="$PROJECT_DIR$/Noughts and Crosses/Noughts and Crosses.iml" />
       <module fileurl="file://$PROJECT_DIR$/PoundConverter/PoundConverter.iml" filepath="$PROJECT_DIR$/PoundConverter/PoundConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Processing/Processing.iml" filepath="$PROJECT_DIR$/Processing/Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" filepath="$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" filepath="$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" filepath="$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorials/Tutorials.iml" filepath="$PROJECT_DIR$/Tutorials/Tutorials.iml" />

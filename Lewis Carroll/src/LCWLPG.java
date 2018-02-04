@@ -6,7 +6,7 @@ import java.util.*;
 
 public class LCWLPG {
 
-    public static List<String> readDictionary(String fileLocation) throws IOException {
+    static List<String> readDictionary(String fileLocation) throws IOException {
         List<String> words = new ArrayList<>();
         String line;
         BufferedReader loadedFile = null;
@@ -23,15 +23,47 @@ public class LCWLPG {
 
         return words;
     }
-    public static List<String> readWordList(String input){
+    static List<String> readWordList(String input){
         return Arrays.asList(input.split("\\s*,\\s*"));
     }
 
-    public static boolean isUniqueList(List<String> inputList){
-        List<String> list = inputList;
-        Set<String> set = new HashSet<>(list);
-        return set.size() >= list.size();
+    static boolean isUniqueList(List<String> inputList){
+        Set<String> set = new HashSet<>(inputList);
+        return set.size() >= inputList.size();
 
+    }
+
+    static boolean isEnglishWord(String input, List<String> dictionary){
+        Set<String> set = new HashSet<>(dictionary);
+        return set.contains(input);
+    }
+
+    static boolean isDifferentByOne(String input1, String input2){
+        String[] array1 = input1.split("");
+        String[] array2 = input2.split("");
+
+        Set<String> set1 = new HashSet<>(Arrays.asList(array1));
+        Set<String> set2 = new HashSet<>(Arrays.asList(array2));
+
+        return set1 == set2;
+    }
+
+    static boolean isWordChain(List<String> list){
+        boolean determinant = false;
+        if(isUniqueList(list)) {
+            for (int i = 0; i < list.size(); i++) {
+                if (isDifferentByOne(list.get(i), list.get(i+1))){
+                    if(isEnglishWord(list.get(i), list)){
+                        determinant = true;
+                    }
+                    else {
+                        determinant = false;
+                        break;
+                    }
+                }
+            }
+        }
+        return determinant;
     }
 
     public static void main(String[] args){
@@ -50,7 +82,8 @@ public class LCWLPG {
                 System.out.println("exiting");
             }
             else{
-                isUniqueList(readWordList(readString));
+                boolean test = isWordChain(readWordList(readString));
+
             }
 
         }while (!finished);

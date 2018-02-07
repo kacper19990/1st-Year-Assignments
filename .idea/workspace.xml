@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/Cipher/src/Cipher.java" line="42" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af4979e4-edbf-4ec2-8eb3-609cd2bef871" name="Default" comment="Newest Bank project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="af4979e4-edbf-4ec2-8eb3-609cd2bef871" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,6 +292,7 @@
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-172.4343.14" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -531,7 +530,7 @@
       <workItem from="1517929758821" duration="122000" />
       <workItem from="1517930630726" duration="775000" />
       <workItem from="1518011965415" duration="1158000" />
-      <workItem from="1518013373120" duration="2899000" />
+      <workItem from="1518013373120" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="50% completion of assignment for Tuesday. Getting back in shape #YOLO">
       <created>1517750854854</created>
@@ -582,11 +581,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518021285650</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Newest Bank project">
+      <created>1518021384730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518021384730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112011000" />
+    <option name="totallyTimeSpent" value="112118000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">

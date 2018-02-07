@@ -5,9 +5,18 @@ import java.util.Date;
 
 public class BankCustomer
 {
-    BankCustomer()
-    {
-        customerTransactions = new TreeMap<>();
+    public BankCustomer(){
+
+    }
+
+    public BankCustomer(long accNumber, int bankCode, String custName, String custAddress, String custEmail, Date custDOB, double bal){
+        accountNumber = accNumber;
+        sortCode = bankCode;
+        customerName = custName;
+        customerAddress = custAddress;
+        customerEmail = custEmail;
+        customerDateOfBirth = custDOB;
+        balance = bal;
     }
 
     private long accountNumber;

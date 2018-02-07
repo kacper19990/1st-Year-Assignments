@@ -1,0 +1,2 @@
+10001002,991222,Michael McGuinness,Trinity College Dublin,michael.mcguinness@tcd.ie,01/04/1997,100
+10001003,991222,Joe Smith,Trinity College Dublin,jsmith@tcd.ie,30/06/1002,3000

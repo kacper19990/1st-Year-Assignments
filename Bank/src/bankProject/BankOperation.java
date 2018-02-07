@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.TreeMap;
@@ -71,7 +72,7 @@ public class BankOperation
     {
         BankCustomer customer = findCustomer(accountNumber);
         customer.setBalance(customer.getBalance() + creditAmount);
-        customer.setTransaction(new Transaction(new Date(), "Credit", creditAmount, customer.getBalance()));
+        Transaction myTransaction =  new Transaction(new Date(), "Credit", creditAmount, customer.getBalance());
         return true;
     }
 
@@ -79,6 +80,15 @@ public class BankOperation
     {
         BankCustomer customer = findCustomer(accountNumber);
         System.out.print(customer.getBalance());
+    }
+
+    public void printStatement(long accountNumber){
+        BankCustomer customer = findCustomer(accountNumber);
+        ArrayList<Transaction> transactionList = customer.getCustomerTransactions();
+        for(int counter = 0; counter < transactionList.size(); counter++){
+            Transaction customerTransaction = transactionList.get(counter);
+            System.out.println(customerTransaction.toString());
+        }
     }
 
     public void setCustomersFromFile(String fileName)

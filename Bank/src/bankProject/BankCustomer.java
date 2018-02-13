@@ -28,7 +28,7 @@ public class BankCustomer
     private double balance;
     private TreeMap<Date,Transaction> customerTransactions;
 
-    public TreeMap<Date,Transaction> getCustomerTransactions() {
+    public TreeMap<Date, Transaction> getCustomerTransactions() {
         return customerTransactions;
     }
 

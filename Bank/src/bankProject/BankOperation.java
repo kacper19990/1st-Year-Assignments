@@ -6,10 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.TreeMap;
+import java.util.*;
 
 public class BankOperation
 {
@@ -83,11 +80,11 @@ public class BankOperation
     }
 
     public void printStatement(long accountNumber){
-        BankCustomer customer = findCustomer(accountNumber);
-        ArrayList<Transaction> transactionList = customer.getCustomerTransactions();
-        for(int counter = 0; counter < transactionList.size(); counter++){
-            Transaction customerTransaction = transactionList.get(counter);
-            System.out.println(customerTransaction.toString());
+        {
+            TreeMap<Date, Transaction> transactionList = findCustomer(accountNumber).getCustomerTransactions();
+            for (Map.Entry<Date, Transaction> entry : transactionList.entrySet()) {
+                System.out.println(entry.getValue().toString());
+            }
         }
     }
 

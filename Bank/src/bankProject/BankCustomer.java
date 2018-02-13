@@ -9,14 +9,18 @@ public class BankCustomer
 
     }
 
-    public BankCustomer(long accNumber, int bankCode, String custName, String custAddress, String custEmail, Date custDOB, double bal){
-        accountNumber = accNumber;
-        sortCode = bankCode;
-        customerName = custName;
-        customerAddress = custAddress;
-        customerEmail = custEmail;
-        customerDateOfBirth = custDOB;
-        balance = bal;
+    public BankCustomer(long accountNumber, int sortCode, String customerName, String customerAddress, String customerEmail, Date customerDateOfBirth, double balance){
+        this(customerName,  customerAddress, customerEmail,  customerDateOfBirth,  balance);
+        this.accountNumber = accountNumber;
+        this.sortCode = sortCode;
+    }
+
+    public BankCustomer(String customerName, String customerAddress, String customerEmail, Date customerDateOfBirth, double balance) {
+        this.customerName = customerName;
+        this.customerAddress = customerAddress;
+        this.customerEmail = customerEmail;
+        this.customerDateOfBirth = customerDateOfBirth;
+        this.balance = balance;
     }
 
     private long accountNumber;

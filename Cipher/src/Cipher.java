@@ -67,6 +67,7 @@ public class Cipher {
 
         }
 
+        return cypher;
     }
     public static void encrypt(char[] textToEncrypt)
     {

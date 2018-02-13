@@ -13,11 +13,11 @@ public class Transaction
 
     }
 
-    public Transaction(Date transDate, String transType, double amount, double bal){
-        transactionDate = transDate;
-        transactionType = transType;
-        transactionAmount = amount;
-        closingBalance = bal;
+    public Transaction(Date transactionDate, String transactionType, double transactionAmount, double closingBalance){
+        this.transactionDate = transactionDate;
+        this.transactionType = transactionType;
+        this.transactionAmount = transactionAmount;
+        this.closingBalance = closingBalance;
     }
 
     public Date getTransactionDate() {

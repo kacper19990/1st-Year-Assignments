@@ -19,7 +19,7 @@ public class BankOperation
 
     void start()
     {
-        setCustomersFromFile("src\\customers.txt");
+        setCustomersFromFile("C:\\Users\\kacpe\\Desktop\\College Assignments\\College-Assignments\\Bank\\src\\bankProject\\customers.txt");
         debitAccount(bankCustomers.firstKey(), 20);
     }
 
@@ -139,4 +139,18 @@ public class BankOperation
             e.printStackTrace();
         }
     }
+
+    public Long[] getAllCustomerAccountNumbers(){
+        Long[] customerAccountNumbers = new Long[bankCustomers.keySet().size()];
+        customerAccountNumbers = bankCustomers.keySet().toArray(customerAccountNumbers);
+        return  customerAccountNumbers;
+    }
+
+    /*public ArrayList<Long> getCustomerAccountNumbers(){
+        ArrayList<Long> customerAccountNumbers = new ArrayList<Long>();
+        Set<Long> accountNumbers = bankCustomers.keySet();
+        for (int count = 0; count < accountNumbers.size(); count++){
+            customerAccountNumbers.add(accountNumbers);
+        }
+    }*/
 }

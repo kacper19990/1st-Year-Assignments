@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Book Problems/Book Problems.iml" filepath="$PROJECT_DIR$/Book Problems/Book Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chuck-a-Luck Dice Game/Chuck-a-Luck Dice Game.iml" filepath="$PROJECT_DIR$/Chuck-a-Luck Dice Game/Chuck-a-Luck Dice Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cipher/Cipher.iml" filepath="$PROJECT_DIR$/Cipher/Cipher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/College Assignments.iml" filepath="$PROJECT_DIR$/.idea/College Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Connect4/Connect4.iml" filepath="$PROJECT_DIR$/Connect4/Connect4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date Converter/Date Converter.iml" filepath="$PROJECT_DIR$/Date Converter/Date Converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date Determinant/Date Determinant.iml" filepath="$PROJECT_DIR$/Date Determinant/Date Determinant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" filepath="$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" />
@@ -23,10 +23,12 @@
       <module fileurl="file://$PROJECT_DIR$/PoundConverter/PoundConverter.iml" filepath="$PROJECT_DIR$/PoundConverter/PoundConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Processing/Processing.iml" filepath="$PROJECT_DIR$/Processing/Processing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rational Numbers/Rational Numbers.iml" filepath="$PROJECT_DIR$/Rational Numbers/Rational Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shipment/Shipment.iml" filepath="$PROJECT_DIR$/Shipment/Shipment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" filepath="$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" filepath="$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" filepath="$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorials/Tutorials.iml" filepath="$PROJECT_DIR$/Tutorials/Tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Umbrella/Umbrella.iml" filepath="$PROJECT_DIR$/Umbrella/Umbrella.iml" />
     </modules>
   </component>
 </project>

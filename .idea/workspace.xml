@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Sport Prizes/src/Awards.java" line="39" />
-    <bookmark url="file://$PROJECT_DIR$/Cipher/src/Cipher.java" line="42" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af4979e4-edbf-4ec2-8eb3-609cd2bef871" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/Branch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/CurrentAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/HeadOffice.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/SavingsAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Bank Branches/src/Bank/Transaction.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="29be253f-ab8a-43a9-a6e9-119342bc7c52" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Connect4/Connect4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shipment/Shipment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shipment/src/Shipping/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shipment/src/Shipping/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shipment/src/Shipping/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shipment/src/Shipping/Shipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/College Assignments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12 Days of Christmas/12 Days of Christmas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Age Problem/Age Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Age Problem/Age Problem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank/Bank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bank/Bank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Problems/Book Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Book Problems/Book Problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chuck-a-Luck Dice Game/Chuck-a-Luck Dice Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chuck-a-Luck Dice Game/Chuck-a-Luck Dice Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cipher/Cipher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cipher/Cipher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date Converter/Date Converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Date Converter/Date Converter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date Determinant/Date Determinant.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Date Determinant/Date Determinant.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Digit Frequencies/Digit Frequencies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Etests/Etests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Etests/Etests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Hacker Rank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/Hacker Rank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hi Lo Card Game/Hi Lo Card Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/High Scores/High Scores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/High Scores/High Scores.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Incremental Statistics/Incremental Statistics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lewis Carroll/Lewis Carroll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lewis Carroll/Lewis Carroll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noughts and Crosses/Noughts and Crosses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Noughts and Crosses/Noughts and Crosses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoundConverter/PoundConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PoundConverter/PoundConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processing/Processing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Processing/Processing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rational Numbers/Rational Numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rational Numbers/Rational Numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sport Prizes/Sport Prizes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Triangular Stars/Triangular Stars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials/Tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials/Tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Umbrella/Umbrella.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Umbrella/Umbrella.iml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,96 +53,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/College_Assignments$PoundConverter.coverage" NAME="PoundConverter Coverage Results" MODIFIED="1508513548956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="FileColors">
-    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
-    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
-    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
-    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
-    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HeadOffice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/HeadOffice.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Inventory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Inventory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Branch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Branch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/BankAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="129">
+              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
               <folding>
-                <element signature="e#315#316#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Customer.java">
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="276">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentAccount.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/CurrentAccount.java">
+      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
+            <state>
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SavingsAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/SavingsAccount.java">
+      <file leaf-file-name="Shipment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Shipment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transaction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/Transaction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-446">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transaction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Transaction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="368">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,89 +111,34 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
-    <findStrings>
-      <find>currentNumber</find>
-      <find>true</find>
-      <find>253</find>
-      <find>49141</find>
-      <find>dice3</find>
-      <find>num1</find>
-    </findStrings>
     <replaceStrings>
-      <replace>currentChecked</replace>
-      <replace>die1</replace>
-      <replace>die3</replace>
-      <replace>denominator</replace>
-      <replace>numerator</replace>
+      <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\Git\College-Assignments\Connect4\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Date Converter/src/Converter.java" />
-        <option value="$PROJECT_DIR$/Triangular Stars/src/fuckthis.java" />
-        <option value="$PROJECT_DIR$/Triangular Stars/src/Stars.java" />
-        <option value="$PROJECT_DIR$/Date Determinant/src/Dates.java" />
-        <option value="$PROJECT_DIR$/Hi Lo Card Game/src/f.java" />
-        <option value="$PROJECT_DIR$/Hi Lo Card Game/src/Java.java" />
-        <option value="$PROJECT_DIR$/Digit Frequencies/src/Frequencies.java" />
-        <option value="$PROJECT_DIR$/High Scores/src/HighScores.java" />
-        <option value="$PROJECT_DIR$/High Scores/src/Euler.java" />
-        <option value="$PROJECT_DIR$/Bank/src/BankCustomer.java" />
-        <option value="$PROJECT_DIR$/Bank/src/Bank.java" />
-        <option value="$PROJECT_DIR$/Bank/src/Bankprogram.java" />
-        <option value="$PROJECT_DIR$/Sieve of Eratosthenes/src/Sieve.java" />
-        <option value="$PROJECT_DIR$/Bank/src/Bank/BankCustomer.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/Bankprogram.java" />
-        <option value="$PROJECT_DIR$/Processing/src/NotesPong.java" />
-        <option value="$PROJECT_DIR$/Processing/src/Pong.java" />
-        <option value="$PROJECT_DIR$/Processing/src/PongTut.java" />
-        <option value="$PROJECT_DIR$/Sieve of Eratosthenes/src/Ernests.java" />
-        <option value="$PROJECT_DIR$/Noughts and Crosses/src/Game.java" />
-        <option value="$PROJECT_DIR$/Processing/src/PongNotes.java" />
-        <option value="$PROJECT_DIR$/Processing/src/Space_Invaders.java" />
-        <option value="$PROJECT_DIR$/Lewis Carroll/src/LCWLPG.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/Bankinterface.java" />
-        <option value="$PROJECT_DIR$/Processing/src/Space.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/Transaction.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/BankModel.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/BankCustomer.java" />
-        <option value="$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/Wallet.java" />
-        <option value="$PROJECT_DIR$/Cipher/src/Cipher.java" />
-        <option value="$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/Dice.java" />
-        <option value="$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/ChuckaLuck.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/BankOperation.java" />
-        <option value="$PROJECT_DIR$/Bank/src/bankProject/Bank.java" />
-        <option value="$PROJECT_DIR$/Rational Numbers/src/Rational.java" />
-        <option value="$PROJECT_DIR$/Rational Numbers/src/testFile.java" />
-        <option value="$PROJECT_DIR$/Processing/src/Widget.java" />
-        <option value="$PROJECT_DIR$/Processing/src/Widgets.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Transactiob.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/HeadOffice.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Branch.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/BankAccount.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Transaction.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Customer.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/CurrentAccount.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/SavingsAccount.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Bank/CurrentAccount.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Bank/SavingsAccount.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Bank/Transaction.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Bank/Branch.java" />
-        <option value="$PROJECT_DIR$/Bank Branches/src/Bank/BankAccount.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4RandomAIPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/Connect4Game.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/ConnectPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/Connect4Grid.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/Connect4Grid2DArray.java" />
+        <option value="$PROJECT_DIR$/Shipment/src/Shipping/Shipment.java" />
+        <option value="$PROJECT_DIR$/Shipment/src/Shipping/Order.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java" />
+        <option value="$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java" />
+        <option value="$PROJECT_DIR$/Shipment/src/Shipping/Item.java" />
+        <option value="$PROJECT_DIR$/Shipment/src/Shipping/Inventory.java" />
       </list>
     </option>
   </component>
@@ -220,123 +148,67 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="College-Assignments" type="58d84e3e:PackageViewProjectNode" />
+              <item name="12 Days of Christmas" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bankProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank Branches" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank Branches" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank Branches" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Bank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Processing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="College-Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Processing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="College-Assignments" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Shipment" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shipment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shipment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shipment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Shipping" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../processing-3.3.6/core/library/core.jar!/" />
-    <property name="jdk.selected.JAVA_MODULE" value="9.0" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
-    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-172.4343.14" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Bank" />
-    </key>
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -350,106 +222,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Widgets">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="bankProject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="bankProject.Bank" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Bank" />
-      <envs />
-    </configuration>
-    <configuration name="ChuckaLuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ChuckaLuck" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chuck-a-Luck Dice Game" />
-      <envs />
-    </configuration>
-    <configuration name="LCWLPG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LCWLPG" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lewis Carroll" />
-      <envs />
-    </configuration>
-    <configuration name="Widgets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Widgets" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Processing" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="testFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="testFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Rational Numbers" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -458,25 +238,14 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -487,647 +256,494 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="Incremental Statistics" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="Incremental Statistics" />
+      <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Plugin.Plugin" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LCWLPG" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Bank" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChuckaLuck" />
-      <item index="4" class="java.lang.String" itemvalue="Application.testFile" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Widgets" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Widgets" />
-        <item index="1" class="java.lang.String" itemvalue="Application.testFile" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Bank" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ChuckaLuck" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LCWLPG" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="af4979e4-edbf-4ec2-8eb3-609cd2bef871" name="Default" comment="" />
-      <created>1508360594322</created>
+      <changelist id="29be253f-ab8a-43a9-a6e9-119342bc7c52" name="Default" comment="" />
+      <created>1522165942507</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1508360594322</updated>
-      <workItem from="1512145937350" duration="20000" />
-      <workItem from="1512145987686" duration="7349000" />
-      <workItem from="1512493831877" duration="6365000" />
-      <workItem from="1512505856601" duration="719000" />
-      <workItem from="1512669652815" duration="8000" />
-      <workItem from="1512923115814" duration="14889000" />
-      <workItem from="1513166575471" duration="1789000" />
-      <workItem from="1513172077581" duration="26000" />
-      <workItem from="1514575683851" duration="961000" />
-      <workItem from="1514577212627" duration="5840000" />
-      <workItem from="1515147749515" duration="426000" />
-      <workItem from="1515263782681" duration="2714000" />
-      <workItem from="1515611090562" duration="599000" />
-      <workItem from="1515778288613" duration="271000" />
-      <workItem from="1516204856064" duration="23000" />
-      <workItem from="1516204900731" duration="2398000" />
-      <workItem from="1516701595734" duration="7294000" />
-      <workItem from="1516878155951" duration="2042000" />
-      <workItem from="1516880905786" duration="16739000" />
-      <workItem from="1516965180925" duration="2643000" />
-      <workItem from="1516971502060" duration="2833000" />
-      <workItem from="1516976371570" duration="2492000" />
-      <workItem from="1517257727337" duration="37000" />
-      <workItem from="1517257837719" duration="1835000" />
-      <workItem from="1517431754282" duration="5675000" />
-      <workItem from="1517492514214" duration="4737000" />
-      <workItem from="1517579018368" duration="16333000" />
-      <workItem from="1517929758821" duration="122000" />
-      <workItem from="1517930630726" duration="775000" />
-      <workItem from="1518011965415" duration="1158000" />
-      <workItem from="1518013373120" duration="3006000" />
-      <workItem from="1518107855481" duration="1991000" />
-      <workItem from="1518519726015" duration="4288000" />
-      <workItem from="1518525670692" duration="11998000" />
-      <workItem from="1518614501222" duration="67000" />
-      <workItem from="1518617047218" duration="3131000" />
-      <workItem from="1518625180022" duration="1060000" />
-      <workItem from="1518714804223" duration="729000" />
-      <workItem from="1519051197022" duration="12076000" />
-      <workItem from="1519212049144" duration="575000" />
-      <workItem from="1519389749749" duration="579000" />
-      <workItem from="1519927342965" duration="119000" />
-      <workItem from="1520432229712" duration="462000" />
-      <workItem from="1520432725391" duration="932000" />
+      <updated>1522165942507</updated>
+      <workItem from="1522165945289" duration="94000" />
+      <workItem from="1522166077198" duration="1058000" />
+      <workItem from="1522242142310" duration="1642000" />
+      <workItem from="1522259948711" duration="618000" />
+      <workItem from="1522337538290" duration="197000" />
+      <workItem from="1522337871239" duration="33000" />
+      <workItem from="1522342871857" duration="4613000" />
+      <workItem from="1522441237032" duration="403000" />
+      <workItem from="1522442020470" duration="1464000" />
+      <workItem from="1522764418805" duration="158000" />
+      <workItem from="1522764594048" duration="253000" />
+      <workItem from="1522764865114" duration="1913000" />
+      <workItem from="1522774249469" duration="2480000" />
+      <workItem from="1522778192789" duration="698000" />
+      <workItem from="1522779466078" duration="4875000" />
+      <workItem from="1522846860951" duration="1624000" />
     </task>
-    <task id="LOCAL-00001" summary="50% completion of assignment for Tuesday. Getting back in shape #YOLO">
-      <created>1517750854854</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1517750854855</updated>
-    </task>
-    <task id="LOCAL-00002" summary="80% completion of assignment for Tuesday.">
-      <created>1517754549428</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1517754549428</updated>
-    </task>
-    <task id="LOCAL-00003" summary="80% completion of assignment for Tuesday.">
-      <created>1517871330265</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1517871330265</updated>
-    </task>
-    <task id="LOCAL-00004" summary="100% completion of assignment for Tuesday.">
-      <created>1517917754020</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1517917754020</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Newest Bank project">
-      <created>1518013669307</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1518013669308</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Newest Bank project">
-      <created>1518021208294</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1518021208294</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Newest Bank project">
-      <created>1518021285650</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1518021285650</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Newest Bank project">
-      <created>1518021384730</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1518021384730</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Fixed branching">
-      <created>1518022798132</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1518022798132</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Didn't put a resolveBet method, but works. Whatever">
-      <created>1518555724675</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1518555724675</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Bank Update">
-      <created>1518714870719</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1518714870719</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Rational numbers">
-      <created>1519169672827</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1519169672828</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151561000" />
-  </component>
-  <component name="TodoView" selected-index="1">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="22123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5064447" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11815252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23791622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="741" y="229" width="437" height="572" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39616254" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31235433" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="1070" y="174" width="776" height="838" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20201342" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31235433" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23584905" sideWeight="0.50416666" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="1070" y="174" width="776" height="838" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14017186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23791622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="741" y="229" width="437" height="572" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39616254" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19395973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="50% completion of assignment for Tuesday. Getting back in shape #YOLO" />
-    <MESSAGE value="80% completion of assignment for Tuesday." />
-    <MESSAGE value="100% completion of assignment for Tuesday." />
-    <MESSAGE value="Newest Bank project" />
-    <MESSAGE value="Fixed branching" />
-    <MESSAGE value="Chuck a Luck assignment partially done" />
-    <MESSAGE value="Didn't put a resolveBet method, but works. Whatever" />
-    <MESSAGE value="Bank Update" />
-    <MESSAGE value="Rational numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rational numbers" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="67" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/Bankprogram.java" />
-    <entry file="file://$PROJECT_DIR$/Sieve of Eratosthenes/Sieve of Eratosthenes.iml">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sieve of Eratosthenes/src/Sieve.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Book Problems/src/PolarCoordinates.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/NotesPong.java" />
-    <entry file="file://$PROJECT_DIR$/Processing/src/PongTut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5044">
-          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Date Determinant/src/Dates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hi Lo Card Game/src/HiLoCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Digit Frequencies/src/Frequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1690">
-          <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Noughts and Crosses/Noughts and Crosses.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Noughts and Crosses/src/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Triangular Stars/src/Stars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sieve of Eratosthenes/src/Ernests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1430">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="206" column="15" lean-forward="false" selection-start-line="206" selection-start-column="15" selection-end-line="206" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Book Problems/src/Loan_Payments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Book Problems/src/WindChill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="52" lean-forward="false" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorials/src/Minus_b.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lewis Carroll/src/LCWLPG.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/customers.txt">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/Bankinterface.java" />
-    <entry file="file://$PROJECT_DIR$/Processing/src/Space.java" />
-    <entry file="file://$PROJECT_DIR$/Processing/src/Alien.pde" />
-    <entry file="file://$PROJECT_DIR$/Cipher/src/Cipher.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="69" column="15" lean-forward="false" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="21" />
+        <state relative-caret-position="156">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/Wallet.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/io/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Pulpit/New folder/src/Reviews/ReviewsMaster.java" />
+    <entry file="file://$PROJECT_DIR$/12 Days of Christmas/src/Christmas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/BankModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="244" column="18" lean-forward="false" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/Dice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chuck-a-Luck Dice Game/src/ChuckaLuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2132">
-          <caret line="82" column="24" lean-forward="false" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Date Converter/Date Converter.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Date Converter/src/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="218" column="5" lean-forward="true" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/Widget.java" />
-    <entry file="jar://$PROJECT_DIR$/../../processing-3.3.6/core/library/core.jar!/processing/core/PApplet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="587" column="16" lean-forward="false" selection-start-line="587" selection-start-column="16" selection-end-line="587" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/Space_Invaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/PongNotes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2314">
-          <caret line="94" column="16" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/Pong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="84" column="34" lean-forward="false" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rational Numbers/src/testFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rational Numbers/src/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="112" column="28" lean-forward="false" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing/src/Widgets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="294" column="13" lean-forward="false" selection-start-line="294" selection-start-column="13" selection-end-line="294" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/BankOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/BankCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/HeadOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/SavingsAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/Transaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-446">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Branch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/CurrentAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/HeadOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/SavingsAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank Branches/src/Bank/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/BankOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank/src/bankProject/BankCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/Connect4Grid2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/ConnectPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connect4/src/C4/C4RandomAIPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Shipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shipment/src/Shipping/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1171,7 +787,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1183,7 +799,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Bank Branches</last-edited>
+          <last-edited>Connect4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1196,7 +812,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>9</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1208,7 +824,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
